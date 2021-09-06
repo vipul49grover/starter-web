@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Adding purpose of the file 
+
 ##How to Contribute
 
 ## Adding a new section
