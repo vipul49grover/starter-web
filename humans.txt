@@ -13,3 +13,6 @@ Editing the team info
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+Editing humans files
