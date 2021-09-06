@@ -23,3 +23,6 @@ Final editing of new section\
 ## Copyright section 
 Adding a new copyright section finally
 Just updating readme file
+
+##Editing section
+editing readme file
