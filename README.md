@@ -17,4 +17,8 @@ Adding contribution section
 ## Adding a new section
 
 Adding a new section descroption
-Final editing of new section
+Final editing of new section\
+
+
+## Copyright section 
+Adding a new copyright section
