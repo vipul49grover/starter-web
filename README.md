@@ -21,4 +21,4 @@ Final editing of new section\
 
 
 ## Copyright section 
-Adding a new copyright section
+Adding a new copyright section finally
