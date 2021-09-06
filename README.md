@@ -17,3 +17,4 @@ Adding contribution section
 ## Adding a new section
 
 Adding a new section descroption
+Final editing of new section
