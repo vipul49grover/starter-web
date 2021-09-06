@@ -13,4 +13,5 @@ Adding purpose of the file
 
 ##How to Contribute
 
+Adding contribution section
 ## Adding a new section
