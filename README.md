@@ -15,3 +15,5 @@ Adding purpose of the file
 
 Adding contribution section
 ## Adding a new section
+
+Adding a new section descroption
