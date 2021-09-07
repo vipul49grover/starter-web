@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 doing a quick fix#stash
 doing a quick fix#stash
+=======
+updating line#stash
+>>>>>>> Stashed changes
 Modifying readme filex
 ##first heading 
 hehaa
